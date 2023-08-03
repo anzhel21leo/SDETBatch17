@@ -1,0 +1,19 @@
+Variables:
+    Are like boxes/containers which can hold date for us. We can change the data later on if we want.
+    We can reuse the same variable as many times as we want. There are 8 basic/premitive data types.
+
+ Four basic data types to store whole number:
+    1)byte 2)short 3)int 4)long
+
+ Two basic data types to store decimal numbers:
+    1)float 2)double
+
+ To store charecters:
+    char
+
+ To shore true/false
+    boolean
+
+ NonPrimitives:
+    1)String
+============================================================================================
