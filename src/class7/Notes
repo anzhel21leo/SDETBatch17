@@ -1,0 +1,7 @@
+NestedLoops:
+    A loop inside another loop. Just like nested if statement.
+Why do we need them?
+    To solve complex problems that requires accessing nested data.
+Arrays:
+    array is a datastructures that helps us store multiple items in a single
+    variable. We can use indexes to access these values.

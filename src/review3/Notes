@@ -1,0 +1,9 @@
+Logical Operators:
+    Logical operators help us multiple boolean values.
+    There are three main logical operators in java.
+    1) NOT(!) 2) OR(||) 3) AND(&&)
+1)NOT (!)
+    boolean cond=true;
+    sout"!cond"
+2)OR (||)
+    Logical OR help us combine
